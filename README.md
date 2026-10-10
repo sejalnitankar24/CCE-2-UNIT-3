@@ -5,7 +5,7 @@ Hospital Patient Record Management Using Linked List
 Title: Hospital Patient Record Management Using Linked List
 Develop a C++ program to manage hospital patient records using a Linked List. Each node stores the patient's ID, name, age, and disease. The system should allow the user to add new patient records, delete existing records, search for a patient by ID, and display all patient records.
 
-2. Objective
+2.Objective
 
 1.To implement a Linked List using C++.
 
